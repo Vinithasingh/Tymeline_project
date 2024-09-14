@@ -49,6 +49,7 @@ Ethical handling of sensitive content has been considered, and no sensitive data
 
 Reporting and Logs
 Test results and execution logs can be found under the seleniumwebdriverproject\target after running the tests.
+if you want to see my test report search for (seleniumwebdriverproject\target\ExtentReports.html) and download the file
 
 Future Enhancements
 Add more test cases to cover a broader range of functionalities, such as image search and news search.
